@@ -19,14 +19,15 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
-  testimonials
+  testimonials,
+  slides
 }) => {
   const heroImage = getImage(image) || image;
 
   return (
     <div>
       {/* <FullWidthImage img={heroImage} title={title} subheading={subheading} /> */}
-      <SlideShow />
+      <SlideShow slides={slides}/>
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -90,6 +91,7 @@ IndexPageTemplate.propTypes = {
     blurbs: PropTypes.array,
   }),
   testimonials: PropTypes.array,
+  slides: PropTypes.array,
 };
 
 const IndexPage = ({ data }) => {
@@ -98,7 +100,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
+        slides={frontmatter.slides}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
@@ -122,40 +124,40 @@ IndexPage.propTypes = {
 export default IndexPage;
 
 export const pageQuery = graphql`
-  query IndexPageTemplate {
-    markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
-      frontmatter {
-        title
+query IndexPageTemplate {
+  markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+    frontmatter {
+      slides {
         image {
-          childImageSharp {
-            gatsbyImageData(quality: 100, layout: FULL_WIDTH)
+        childImageSharp {
+          gatsbyImageData(quality: 100, layout: FULL_WIDTH)
+        }
+      }
+      }
+      heading
+      mainpitch {
+        title
+        description
+      }
+      description
+      intro {
+        blurbs {
+          image {
+            childImageSharp {
+              gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
+            }
           }
+          title
+          text
         }
         heading
-        subheading
-        mainpitch {
-          title
-          description
-        }
         description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
-              }
-            }
-            title
-            text
-          }
-          heading
-          description
-        }
-        testimonials {
-          author
-          quote
-        }
+      }
+      testimonials {
+        author
+        quote
       }
     }
   }
+}
 `;
