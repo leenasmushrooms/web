@@ -11,15 +11,11 @@ description: Our story success is scattered with challenges that we had to face 
 intro:
   blurbs:
     - image: /img/leenas-mushroom-197.jpg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/leenas-mushroom-175.jpg
+      title: Mushroom Seeds
+      text: >  
         The quality of mushroom is highly dependent on the quality of the spawn / the seed. Non-availability of quality spawn is the most common and serious setback a mushroom farmer may face. At Leena’s Mushrooms, we test, sort and hand-select high-quality First-generation mushroom spawns of various strains at our own quality checking facility. We use these spawns at our farm to yield high-quality mushrooms all year round. We are constantly trying out various strains of mushrooms from different parts of the country in our endeavour to identify and use the best spawn. We also provide these to anyone who needs quality 
-    - image: /img/coffee-gear.png
+    - image: /img/leenas-mushroom-175.jpg
+      title: Brewing Gear
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
@@ -34,20 +30,30 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+testimonials:
+  - author: Retheesh Sivan
+    quote: >-
+      You can easily get Fresh Mushrooms and You can also get a mushroom bed for beginners who want to get into mushroom cultivation. Beginners will have less workload and get best mushrooms easily. Additionally mushroom seeds can be obtained from Leena's Mushroom farm's at reasonable rates
+  - author: A V Mathew
+    quote: >-
+      Happy to state that he is one of my best trainees , very sincere and hard working. No doubt to say that this is the best lab and high tech mushroom production unit in Kerala.I have visited several times his lab and production units .He is really extending a great service to the people nearby by distributing quality farm fresh mushrooms and spawn.I wish him all the best
+  - author: Mathews George Viruppamattam
+    quote: >-
+      Fresh Mushroom. Excellent Quality .Produced in very closed hygiene environment. Appreciate the effort for quality and perfection.
+# main:
+#   heading: Great coffee with no compromises
+#   description: >
+#     We hold our coffee to the highest standards from the shrub to the cup.
+#     That’s why we’re meticulous and transparent about each step of the coffee’s
+#     journey. We personally visit each farm to make sure the conditions are
+#     optimal for the plants, farmers and the local environment.
+#   image1:
+#     alt: A close-up of a paper filter filled with ground coffee
+#     image: /img/products-grid3.jpg
+#   image2:
+#     alt: A green cup of a coffee on a wooden table
+#     image: /img/products-grid2.jpg
+#   image3:
+#     alt: Coffee beans
+#     image: /img/products-grid1.jpg
 ---

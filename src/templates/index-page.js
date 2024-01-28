@@ -8,6 +8,7 @@ import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
 import SlideShow from "../components/SlideShow";
+import Testimonials from "../components/Testimonials";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -18,6 +19,7 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  testimonials
 }) => {
   const heroImage = getImage(image) || image;
 
@@ -48,14 +50,15 @@ export const IndexPageTemplate = ({
                     </div>
                   </div>
                   <Features gridItems={intro.blurbs} />
-                  <div className="columns">
+                  <Testimonials  testimonials={testimonials}/>
+                  {/* <div className="columns">
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/products">
                         See all products
                       </Link>
                     </div>
-                  </div>
-                  <div className="column is-12">
+                  </div> */}
+                  {/* <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
                       Latest stories
                     </h3>
@@ -65,7 +68,7 @@ export const IndexPageTemplate = ({
                         Read more
                       </Link>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -86,6 +89,7 @@ IndexPageTemplate.propTypes = {
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
+  testimonials: PropTypes.array,
 };
 
 const IndexPage = ({ data }) => {
@@ -101,6 +105,7 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
+        testimonials={frontmatter.testimonials}
       />
     </Layout>
   );
@@ -140,10 +145,15 @@ export const pageQuery = graphql`
                 gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
               }
             }
+            title
             text
           }
           heading
           description
+        }
+        testimonials {
+          author
+          quote
         }
       }
     }
