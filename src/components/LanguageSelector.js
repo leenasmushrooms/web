@@ -6,12 +6,13 @@ const LanguageSelector = () => {
     const lng = isBrowser() ? window.location.pathname.startsWith('/ml')? 'ml': 'en': 'en';
     return lng === lang ? "button is-primary" : "button is-white";
   };
+  const barePath = isBrowser() ? window.location.pathname.replace('/ml/', '/'): '/'
   return (
     <div className="navbar-item">
-      <Link className={getClass("en")} to="/">
+      <Link className={getClass("en")} to={`${barePath}`}>
         English
       </Link>
-      <Link className={getClass("ml")} to="/ml/">
+      <Link className={getClass("ml")} to={`/ml${barePath}`}>
         മലയാളം
       </Link>
     </div>

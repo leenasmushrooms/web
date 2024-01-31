@@ -76,10 +76,10 @@ export default function BlogRoll() {
   return (
     <StaticQuery
       query={graphql`
-        query BlogRollQuery {
+        query BlogRollQueryMl {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
-            filter: { frontmatter: { templateKey: { eq: "blog-post" }, language: {eq: "en"} } }
+            filter: { frontmatter: { templateKey: { eq: "blog-post" }, language: {eq: "ml"} } }
           ) {
             edges {
               node {
