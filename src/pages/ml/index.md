@@ -9,9 +9,9 @@ heading: How can we help
 subheading: How can we help.
 templateKey: index-page
 type: 1
-language: en
+language: ml
 mainpitch:
-  title: You Can Grow Mushrooms hello
+  title: You Can Grow Mushrooms malayalam
   description: Contrary to popular belief, mushroom cultivation is rather
     effortless; Mushroom farming only takes up a smaller area, it’s highly
     profitable and if done in the right way, needs minimal maintenance for
