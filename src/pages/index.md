@@ -8,8 +8,6 @@ slides:
 heading: How can we help
 subheading: How can we help.
 templateKey: index-page
-type: 1
-language: en
 mainpitch:
   title: You Can Grow Mushrooms
   description: Contrary to popular belief, mushroom cultivation is rather
@@ -31,22 +29,18 @@ intro:
         parts of the country in our endeavour to identify and use the best
         spawn. We also provide these to anyone who needs quality 
     - image: /img/leenas-mushroom-175.jpg
-      title: Brewing Gear
+      title: Proper know-how
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop. To succeed in any business, especially
-        in mushroom cultivation, you need to have a proper understanding of the
-        various challenges and equip yourselves to face and overcome them. In
-        the initial stages of Leena’s Mushrooms, we also had to face some
-        setbacks, we learned from it and we have been guiding small farmers to
-        get through the initial struggle. We offer a decade worth of expertise,
-        knowledge and understanding of the business to the budding mushroom
-        cultivator by providing training on mushroom farming. We also provide
-        onsite farming consultancy services through which we can direct you away
-        from unnecessary losses and setbacks and put you on the right path
-        towards successful farming.
+        To succeed in any business, especially in mushroom cultivation, you need
+        to have a proper understanding of the various challenges and equip
+        yourselves to face and overcome them. In the initial stages of Leena’s
+        Mushrooms, we also had to face some setbacks, we learned from it and we
+        have been guiding small farmers to get through the initial struggle. We
+        offer a decade worth of expertise, knowledge and understanding of the
+        business to the budding mushroom cultivator by providing training on
+        mushroom farming. We also provide onsite farming consultancy services
+        through which we can direct you away from unnecessary losses and
+        setbacks and put you on the right path towards successful farming. 
   heading: Clients Said
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -70,6 +64,8 @@ testimonials:
     quote: Fresh Mushroom. Excellent Quality .Produced in very closed hygiene
       environment. Appreciate the effort for quality and perfection.
 title: Ready to grow
+language: en
+type: 1
 image: /img/leenas-mushroom-183.jpg
 description: Our story success is scattered with challenges that we had to face
   throughout the journey; each challenge was a new opportunity which made us
@@ -78,5 +74,5 @@ description: Our story success is scattered with challenges that we had to face
   mushroom business. We have set up our own high-tech farm, we have our own
   spawn lab, and we cultivate and market our mushrooms and that gives us the
   expertise we claim. Below you can find some common challenges a mushroom
-  cultivator may have to face .
+  cultivator may have to face.
 ---
