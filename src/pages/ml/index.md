@@ -44,12 +44,18 @@ intro:
         നഷ്ടങ്ങളിൽ നിന്നും തിരിച്ചടികളിൽ നിന്നും രക്ഷപെട്ട് ,  വിജയകരമായ കൂൺ
         കൃഷിയിലേക്കുള്ള പാതയിൽ നിങ്ങളെ എത്തിക്കാനും ഞങ്ങൾക്ക് നിങ്ങളെ സഹായിക്കാൻ
         കഴിയും.
-  heading: Clients Said
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: ഗുണഭോകതാക്കൾ പറയുന്നത്.
+  description: >-
+    Sebi Sajeed
+
+    Very good experiance.
+
+    . മഷ്റൂം ഫാർമിങ്ങ് തുടങ്ങാൻ ആഗ്രഹിക്കുന്ന എല്ലാവർക്കും ലീനാ സ് മഷ്റൂമിന്റെ training  വളരെ ഉപകാരപ്രദമായിരിക്കും. എല്ലാസംശയങ്ങൾക്കും മറുപടി കിട്ടുകയും ചെയ്യും.
+
+    Thank you very much Leena's mushroom
+
+
+    https://maps.app.goo.gl/f9TZqL4TqLeFDqgy7
 testimonials:
   - author: Retheesh Sivan
     quote: You can easily get Fresh Mushrooms and You can also get a mushroom bed
