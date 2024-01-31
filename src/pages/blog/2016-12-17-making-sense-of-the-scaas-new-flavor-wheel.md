@@ -1,34 +1,25 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: എളുപ്പത്തിലുള്ള കൂൺ റെസിപ്പീസ്
 date: 2016-12-17T15:04:10.000Z
+description: വളരെ എളുപ്പത്തിൽ ഉണ്ടാക്കാവുന്ന കൂൺ വിഭവങ്ങൾ .
 featuredpost: false
+featuredimage: https://leenasfarm.com/wp-content/uploads/2023/07/naadan_mushroom_curry.jpg
 language: en
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
-  - flavor
-  - tasting
+  - നാടൻ കൂൺ കറി
+  - കൂൺ വിഭവം
+  - ചിപ്പിക്കൂൺ
+  - കൂൺ കറി
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+### **നാടൻ കൂൺ കറി**
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+> 1. **ചേരുവകൾ**
+> 2. **കൂൺ- 100 ഗ്രാം** 
+> 3. **സവാള- 1**
+> 4. **തക്കാളി- 1**
+> 5. **പച്ചമുളക്- 2**
+> 6. **ഉപ്പ് -ആവിശ്യത്തിന്**
+> 7. **ഇഞ്ചി വെളുത്തുള്ളി പേസ്റ്റ് -2ടേബിൾസ്പൂൺ.**
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
-
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+കുക്കിംഗ്‌ ഓയിലിൽ അരപ്പിനുള്ള ചേരുവകൾ എല്ലാം ചേർത്ത് നന്നായി വറുത്ത് മഷിപോലെ അരച്ചെടുക്കണം. ഒരു പാനിൽ എണ്ണ ഒഴിച്ച് സവാള, തക്കാളി, പച്ചമുളക് എന്നിവ നന്നായി വഴറ്റുക. ഇതിലേക്ക് ഇഞ്ചി–വെളുത്തുള്ളി പേസ്റ്റ് ചേർത്ത് വഴറ്റുക. ഉപ്പ് പാകത്തിന് ചേർക്കുക. ഇവ നന്നായി വഴറ്റിയ ശേഷം അരച്ചുവെച്ചിരിക്കുന്ന മിശ്രിതം ഇതിലേക്ക് ചേർക്കുക വേണമെങ്കിൽ അല്പം വെള്ളം കുടി ചേർത്ത് കൊടുക്കാം. ഇതിലേക്ക് അരിഞ്ഞു വെച്ചിരിക്കുന്ന കൂൺ ചേർത്ത് ഇളക്കി മൂടി വെക്കുക. കൂൺ വെന്തുകഴിഞ്ഞാൽ അപ്പത്തിനും ചോറിനും കൂടി കഴിക്കാൻ ആയി നാടൻ കൂൺ കറി  തയ്യാർ.
