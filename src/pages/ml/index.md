@@ -5,15 +5,14 @@ slides:
   - image: /img/leenas-mushroom-18.jpg
   - image: /img/leenas-mushroom-200.jpg
   - image: /img/leenas-mushroom-198.jpg
-heading: How can we help
+heading: "ഞങ്ങൾക്ക് നിങ്ങളെ എങ്ങനെ സഹായിക്കാനാകും "
 subheading: How can we help.
 templateKey: index-page
 mainpitch:
   title: നിങ്ങൾക്കും കൂൺ വളർത്താം
-  description: Contrary to popular belief, mushroom cultivation is rather
-    effortless; Mushroom farming only takes up a smaller area, it’s highly
-    profitable and if done in the right way, needs minimal maintenance for
-    year-round yield.
+  description: "പൊതുധാരണ തിരിച്ചാണെങ്കിലും , സത്യത്തിൽ കൂൺ കൃഷി അനായാസമാണ്; കൂൺ
+    കൃഷി ഒരു ചെറിയ പ്രദേശം മാത്രമേ എടുക്കൂ, അത് വളരെ ലാഭകരമാണ്, ശരിയായ രീതിയിൽ
+    ചെയ്താൽ, കുറഞ്ഞ പരിപാലനം കൊണ്ട് വർഷം മുഴുവനും വിളവ് ലഭിക്കുന്നതും ആണ്. "
 intro:
   blurbs:
     - image: /img/leenas-mushroom-197.jpg
@@ -71,12 +70,13 @@ title: Ready to grow
 language: ml
 type: 1
 image: /img/leenas-mushroom-183.jpg
-description: Our story success is scattered with challenges that we had to face
-  throughout the journey; each challenge was a new opportunity which made us
-  better and stronger. Unlike other mushroom consultants, we are the only
-  high-tech mushroom farm consultants who have seen the complete life cycle of
-  mushroom business. We have set up our own high-tech farm, we have our own
-  spawn lab, and we cultivate and market our mushrooms and that gives us the
-  expertise we claim. Below you can find some common challenges a mushroom
-  cultivator may have to face .
+description: വിജയത്തിലേക്കുള്ള ഞങ്ങളുടെ യാത്ര നിറയെ വെല്ലുവിളികൾ
+  നിറഞ്ഞതായിരുന്നു ; പക്ഷേ ഓരോ വെല്ലുവിളിയും കൂടുതൽ ശക്തരാക്കി.  മറ്റ് കൂൺ
+  കൺസൾട്ടന്റുമാരിൽ നിന്ന് വ്യത്യസ്തമായി, കൂൺ ബിസിനസിൻറെ സമ്പൂർണ്ണ ജീവിത ചക്രം
+  കണ്ട ഒരേയൊരു ഹൈടെക് കൂൺ ഫാം കൺസൾട്ടന്റുമാരാണ് ഞങ്ങൾ. ഞങ്ങൾക്ക്  സ്വന്തം ഹൈടെക്
+  ഫാം,  സ്പോൺ ലാബ്  എന്നിവ ഉണ്ട്, ഞങ്ങൾ ഞങ്ങളുടെ കൂൺ കൃഷി ചെയ്യുകയും വിപണനം
+  ചെയ്യുകയും ചെയ്യുന്നു. കൂൺകൃഷി , വിത്തുല്പാദനം , കൂൺ ബെഡ് സപ്ലൈ , കൂൺകൃഷി
+  ട്രെയിനിങ് ,ഫാം നിർമിച്ചു കൊടുക്കൽ , ഫാം നിർമാണത്തിന് നിർദ്ദേശ്ശങ്ങൾ കൊടുക്കൽ
+  എന്നിങ്ങനെ കൂൺകൃഷിയുടെ സർവ്വ വശങ്ങളും ചെയ്യുന്ന കേരളത്തിലെ ഒരേ ഒരു ഗ്രൂപ്പ്
+  ഞങ്ങൾ മാത്രമാണ്.
 ---
