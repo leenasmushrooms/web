@@ -16,34 +16,34 @@ mainpitch:
 intro:
   blurbs:
     - image: /img/leenas-mushroom-197.jpg
-      title: Mushroom Seeds
-      text: >
-        The quality of mushroom is highly dependent on the quality of the spawn
-        / the seed. Non-availability of quality spawn is the most common and
-        serious setback a mushroom farmer may face. At Leena’s Mushrooms, we
-        test, sort and hand-select high-quality First-generation mushroom spawns
-        of various strains at our own quality checking facility. We use these
-        spawns at our farm to yield high-quality mushrooms all year round. We
-        are constantly trying out various strains of mushrooms from different
-        parts of the country in our endeavour to identify and use the best
-        spawn. We also provide these to anyone who needs quality 
+      title: "കൂൺ വിത്ത് അഥവാ സ്പോൺ "
+      text: കൂണിൻ്റെ വളർച്ചയും ഗുണനിലവാരവും കൂൺ വിത്തിൻ്റെ ഗുണനിലവാരത്തെ
+        ആശ്രയിച്ചിരിക്കുന്നു. ഗുണമേന്മയുള്ള വിത്തിന്റെ  ലഭ്യതക്കുറവാണ് കൂൺ
+        കർഷകൻ  അഭിമുഖീകരിക്കുന്ന  ഏറ്റവും വലിയ പ്രശ്‍നം . ലീനാസ്  മഷ്‌റൂമിൽ, പല
+        സ്ഥലങ്ങളിൽ നിന്നും ശേഖരിച്ച വിവിധയിനം കൂൺ വിത്തുകൾ പരീക്ഷിക്കുന്നു, അതിൽ
+        നിന്നും തിരഞ്ഞെടുത്ത മികച്ച ശേഷിയുള്ള മഷ്‌റൂം വിത്തിനങ്ങളിൽ
+        നിന്നും  ഒന്നാം തലമുറ കൂൺ വിത്തുകൾ ഞങ്ങളുടെ സ്വന്തംകൂൺ കൃഷിക്കായി
+        തിരഞ്ഞെടുക്കുന്നു .  വർഷം മുഴുവനും ഉയർന്ന ഗുണമേന്മയുള്ള കൂൺ വിളവെടുക്കാൻ
+        ഞങ്ങളുടെ ഫാമിൽ ഈ വിത്ത് ഉപയോഗിക്കുന്നു. മികച്ച വിത്തിനങ്ങളെ
+        തിരിച്ചറിയുന്നതിനും ഉപയോഗിക്കുന്നതിനുമുള്ള ഞങ്ങളുടെ ശ്രമത്തിൽ
+        രാജ്യത്തിൻ്റെ വിവിധ ഭാഗങ്ങളിൽ നിന്നുള്ള വിവിധ തരം കൂണുകൾ ഞങ്ങൾ നിരന്തരം
+        പരീക്ഷിച്ചുകൊണ്ടിരിക്കുന്നു. ഗുണനിലവാരം ഉള്ള ഈ വിത്തുകളുടെ സപ്ലൈയും
+        ഞങ്ങൾ ചെയ്യുന്നു.
     - image: /img/leenas-mushroom-175.jpg
-      title: Brewing Gear
+      title: "കൂൺ കൃഷിയുടെ പ്രായോഗികവശങ്ങൾ "
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop. To succeed in any business, especially
-        in mushroom cultivation, you need to have a proper understanding of the
-        various challenges and equip yourselves to face and overcome them. In
-        the initial stages of Leena’s Mushrooms, we also had to face some
-        setbacks, we learned from it and we have been guiding small farmers to
-        get through the initial struggle. We offer a decade worth of expertise,
-        knowledge and understanding of the business to the budding mushroom
-        cultivator by providing training on mushroom farming. We also provide
-        onsite farming consultancy services through which we can direct you away
-        from unnecessary losses and setbacks and put you on the right path
-        towards successful farming.
+        ഏതൊരു ബിസിനസ്സിലും വിജയിക്കാൻ, പ്രത്യേകിച്ച് കൂൺ കൃഷിയിൽ, അതിൽ
+        സംഭവിക്കാവുന്ന വിവിധ വെല്ലുവിളികളെക്കുറിച്ച് നിങ്ങള്ക്ക് ശരിയായ ധാരണ
+        വേണം . എങ്കിലേ  അവയെ അഭിമുഖീകരിക്കാനും അതിജീവിക്കാനും സ്വയം
+        തയ്യാറായിരിക്കാനാകൂ . ലീനാസ്   മഷ്‌റൂമിന്റെ  തുടക്കകാലത്ത് ഞങ്ങൾക്കും
+        ചില തിരിച്ചടികൾ നേരിടേണ്ടി വന്നു, അതിൽ നിന്നും പഠിച്ച പാഠങ്ങൾ കൊണ്ട് ,
+        പുതുതായി കൂൺ കൃഷി തുടങ്ങുന്ന  ചെറുകിട കർഷകർക്ക്  ആവശ്യമായ പരിശീലനം ഞങ്ങൾ
+        വർഷങ്ങളായി നൽകി വരുന്നു.  കൂൺ കൃഷി , വിപണനം എന്നിവയിൽ ഞങ്ങളുടെ ഒരു
+        ദശാബ്ദത്തെ വൈദഗ്ധ്യവും അറിവും ട്രെയിനിങ് വഴിയും ,  ഫാം പണിതുകൊടുക്കൽ ,
+        കൺസൾട്ടൻസി സേവനങ്ങളിലൂടെയും ഞങ്ങൾ പകർന്നു നൽകുന്നു .  അതിലൂടെ അനാവശ്യമായ
+        നഷ്ടങ്ങളിൽ നിന്നും തിരിച്ചടികളിൽ നിന്നും രക്ഷപെട്ട് ,  വിജയകരമായ കൂൺ
+        കൃഷിയിലേക്കുള്ള പാതയിൽ നിങ്ങളെ എത്തിക്കാനും ഞങ്ങൾക്ക് നിങ്ങളെ സഹായിക്കാൻ
+        കഴിയും.
   heading: Clients Said
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
