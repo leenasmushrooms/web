@@ -1,6 +1,7 @@
 import { Link } from "gatsby";
 import React, { useState } from "react";
 import logo from "../img/logo.png";
+import LanguageSelector from "./LanguageSelector";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -42,6 +43,9 @@ const Navbar = () => {
             <Link className="navbar-item" to="/blog">
               Blog
             </Link>
+          </li>
+          <li className="navbar-end has-text-centered">
+            <LanguageSelector/>
           </li>
         </ul>
       </div>

@@ -8,10 +8,8 @@ slides:
 heading: How can we help
 subheading: How can we help.
 templateKey: index-page
-type: 1
-language: ml
 mainpitch:
-  title: You Can Grow Mushrooms malayalam
+  title: നിങ്ങൾക്കും കൂൺ വളർത്താം
   description: Contrary to popular belief, mushroom cultivation is rather
     effortless; Mushroom farming only takes up a smaller area, it’s highly
     profitable and if done in the right way, needs minimal maintenance for
@@ -70,6 +68,8 @@ testimonials:
     quote: Fresh Mushroom. Excellent Quality .Produced in very closed hygiene
       environment. Appreciate the effort for quality and perfection.
 title: Ready to grow
+language: ml
+type: 1
 image: /img/leenas-mushroom-183.jpg
 description: Our story success is scattered with challenges that we had to face
   throughout the journey; each challenge was a new opportunity which made us
