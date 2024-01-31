@@ -6,6 +6,7 @@ import Features from "../components/Features";
 import Layout from "../components/Layout";
 import SlideShow from "../components/SlideShow";
 import Testimonials from "../components/Testimonials";
+import enrollImg from "../img/enroll_now_jithu-scaled.jpg"
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -35,6 +36,9 @@ export const IndexPageTemplate = ({
                       <p>{mainpitch.description}</p>
                     </div>
                   </div>
+                  <a href="https://www.manoramahorizon.com/course/mushroom-farming-for-beginners/" target="_blank">
+                    <img src={enrollImg} alt="Leenas" style={{ width: "100%" }} />
+                  </a>
                   <div className="columns">
                     <div className="column is-12">
                       <h3 className="has-text-weight-semibold is-size-2">
