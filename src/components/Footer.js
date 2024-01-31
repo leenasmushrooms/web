@@ -18,7 +18,7 @@ const Footer = () => {
             style={{ width: "14em", height: "10em" }}
           />
         </div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62893.76498610667!2d76.46711629861375!3d9.862084744057974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b07d9853ee36a29%3A0x21d45727fa3f7c07!2sLEENA'S%20MUSHROOM%20FARMS%20LLP!5e0!3m2!1sen!2sin!4v1650991266805!5m2!1sen!2sin" width="100%" height="250" style={{border:0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"/>
+        <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62893.76498610667!2d76.46711629861375!3d9.862084744057974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b07d9853ee36a29%3A0x21d45727fa3f7c07!2sLEENA'S%20MUSHROOM%20FARMS%20LLP!5e0!3m2!1sen!2sin!4v1650991266805!5m2!1sen!2sin" width="100%" height="250" style={{border:0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"/>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div style={{ maxWidth: "100vw" }} className="columns">
@@ -56,14 +56,6 @@ const Footer = () => {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                {/* <a title="twitter" href="https://twitter.com">
-                  <img
-                    className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a> */}
                 <a title="instagram" href="https://www.instagram.com/leenasmushroom">
                   <img
                     src={instagram}
@@ -71,13 +63,6 @@ const Footer = () => {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                {/* <a title="vimeo" href="https://vimeo.com">
-                  <img
-                    src={vimeo}
-                    alt="Vimeo"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a> */}
               </div>
             </div>
           </div>

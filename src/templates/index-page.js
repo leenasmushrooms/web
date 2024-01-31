@@ -1,32 +1,25 @@
-import React from "react";
+import { graphql } from "gatsby";
 import PropTypes from "prop-types";
-import { Link, graphql } from "gatsby";
-import { getImage } from "gatsby-plugin-image";
+import React from "react";
 
-import Layout from "../components/Layout";
 import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
-import FullWidthImage from "../components/FullWidthImage";
+import Layout from "../components/Layout";
 import SlideShow from "../components/SlideShow";
 import Testimonials from "../components/Testimonials";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
   image,
-  title,
   heading,
-  subheading,
   mainpitch,
   description,
   intro,
   testimonials,
   slides
 }) => {
-  const heroImage = getImage(image) || image;
 
   return (
     <div>
-      {/* <FullWidthImage img={heroImage} title={title} subheading={subheading} /> */}
       <SlideShow slides={slides}/>
       <section className="section section--gradient">
         <div className="container">
@@ -52,24 +45,6 @@ export const IndexPageTemplate = ({
                   </div>
                   <Features gridItems={intro.blurbs} />
                   <Testimonials  testimonials={testimonials}/>
-                  {/* <div className="columns">
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/products">
-                        See all products
-                      </Link>
-                    </div>
-                  </div> */}
-                  {/* <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      Latest stories
-                    </h3>
-                    <BlogRoll />
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/blog">
-                        Read more
-                      </Link>
-                    </div>
-                  </div> */}
                 </div>
               </div>
             </div>
@@ -95,7 +70,7 @@ IndexPageTemplate.propTypes = {
 };
 
 const IndexPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark;
+  const { frontmatter } = data.content;
 
   return (
     <Layout>
@@ -124,15 +99,24 @@ IndexPage.propTypes = {
 export default IndexPage;
 
 export const pageQuery = graphql`
-query IndexPageTemplate {
-  markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+query IndexById($id: String!, $language: String!) {
+  page: markdownRemark(id: {eq: $id}) {
+    fields {
+      slug
+    }
+    html
+  }
+  content: markdownRemark(
+    frontmatter: {type: {eq: 1}, templateKey: {eq: "index-page"}, language: {eq: $language}}
+  ) {
+    id
     frontmatter {
       slides {
         image {
-        childImageSharp {
-          gatsbyImageData(quality: 100, layout: FULL_WIDTH)
+          childImageSharp {
+            gatsbyImageData(quality: 100, layout: FULL_WIDTH)
+          }
         }
-      }
       }
       heading
       mainpitch {
@@ -160,4 +144,5 @@ query IndexPageTemplate {
     }
   }
 }
+
 `;
