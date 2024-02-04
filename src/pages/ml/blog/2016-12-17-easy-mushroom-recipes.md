@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: എളുപ്പത്തിലുള്ള കൂൺ റെസിപ്പീസ്
-language: en
+language: ml
 date: 2024-02-04T15:48:06.158Z
 description: വളരെ എളുപ്പത്തിൽ ഉണ്ടാക്കാവുന്ന കൂൺ വിഭവങ്ങൾ .
 featuredpost: false

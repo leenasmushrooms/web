@@ -1,101 +1,86 @@
 ---
-templateKey: 'product-page'
+heading: നല്ല കൂൺ വിത്ത്
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Malayalam Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: product-page
+title: കൂൺ വിത്ത്
+image: /img/spawn.jpeg
+description: കൂണിൻ്റെ ഗുണനിലവാരം അതിൻ്റെ വിത്തിന്റെ ഗുണനിലവാരത്തെ വളരെയധികം ആശ്രയിച്ചിരിക്കുന്നു. ഗുണനിലവാരമുള്ള വിത്ത് ലഭ്യതയില്ലായ്മയാണ് ഏറ്റവും സാധാരണമായതും
+  ഒരു കൂൺ കർഷകന് നേരിട്ടേക്കാവുന്ന ഗുരുതരമായ തിരിച്ചടി.
 intro:
   blurbs:
-    - image: /img/leenas-mushroom-18.jpg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/leenas-mushroom-18.jpg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/farm-2.png
+      text: ഫ്രഷ്  കൂൺ
+    - image: /img/farm4.png
+      text: ഫാം
+  heading: ഉയർന്ന വിളവ് നൽകുന്ന മുത്തുച്ചിപ്പി കൂണിൻ്റെ F1 വിത്ത്
+  description: '"300 ഗ്രാം ഭാരമുള്ള മഷ്റൂം സ്പോൺ സാധാരണ മുറിയിൽ സൂക്ഷിക്കാം
+    ഏകദേശം 1.5 ആഴ്ച താപനില. വിപുലീകൃത സംഭരണത്തിനായി, ഇത് സ്ഥാപിക്കുന്നു
+    ഫ്രിഡ്ജ് 2.5 മാസം വരെ സൂക്ഷിക്കാൻ അനുവദിക്കുന്നു."'
 main:
-  heading: Great coffee with no compromises
+  heading: ഗ്രോ റൂം® (വ്യക്തിഗത മഷ്റൂം ഗ്രോ കിറ്റ്)
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    
+    കുത്തിവയ്പ്പും (തടത്തിൽ വിത്ത് ചേർക്കുന്നതും) മുട്ടയിടുന്നതും കൂൺ വളരുന്നതിൻ്റെ പ്രയാസകരമായ ഘട്ടങ്ങളാണ്, ഇത് ആളുകളെ കൂൺ കൃഷിയിൽ നിന്ന് പിന്തിരിപ്പിക്കുന്നു, ഞങ്ങൾ നിങ്ങൾക്കായി അത് ചെയ്യുന്നു. 
+
+    ഞങ്ങളുടെ മഷ്റൂം ഗ്രോ കിറ്റ് അവതരിപ്പിക്കുന്നു - വിജയകരമായ കൃഷിക്ക് ആവശ്യമായതെല്ലാം ഉൾക്കൊള്ളുന്ന സൗകര്യപ്രദവും ജൈവികവുമായ പരിഹാരം. മുട്ടയിടുന്നത് മുതൽ പോഷക സമ്പുഷ്ടമായ മാധ്യമം വരെ, ഇത് എളുപ്പവും ഫലപ്രദവുമായ കൂൺ വളരുന്ന അനുഭവത്തിനായി രൂപകൽപ്പന ചെയ്‌തിരിക്കുന്നു.
+
+    ഞങ്ങൾ കിടക്കയിൽ കുത്തിവയ്‌ക്കുകയും ആരോഗ്യകരമായ സ്‌പോൺ ഓട്ടം ഉറപ്പാക്കുകയും ഞങ്ങളുടെ മിനി ഗ്രോ റൂം നിങ്ങൾക്ക് അയയ്‌ക്കുകയും ചെയ്യുന്നു. നിങ്ങൾ ചെയ്യേണ്ടത് ഗ്രോ റൂം സൂര്യപ്രകാശത്തിൽ നിന്ന് അകന്ന് തണുത്ത സ്ഥലത്ത് സൂക്ഷിക്കുകയും കുറച്ച് വെള്ളം തളിക്കുകയും വിളവെടുക്കുകയും ചെയ്യുക, നിങ്ങളുടെ സ്വന്തം ഗ്രോ റൂമിൽ നിന്ന് നേരിട്ട് ഏറ്റവും പുതിയ കൂൺ ഉപയോഗിക്കുക.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: മഷ്റൂം ഗ്രോ കിറ്റ് -ഗ്രോ റൂം®
+    image: /img/grow-room1.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: പകുതി വളർന്ന കൂണുകളുള്ള മഷ്റൂം ഗ്രോ റൂം
+    image: /img/grow-room2.png
+
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - quote: ഉയർന്ന നിലവാരമുള്ള മഷ്റൂം സ്പോണിൻ്റെ അറിയപ്പെടുന്ന വിതരണക്കാരൻ. പ്രശസ്തമായ ഒന്നാണ്
+      10,000-ത്തിലധികം സംതൃപ്തരായ കേരളത്തിലെ പ്രമുഖ കൂൺ ഫാമുകൾ
+      ഉപഭോക്താക്കൾ👍. മഷ്റൂം വാങ്ങാൻ ഞാൻ എപ്പോഴും ഇഷ്ടപ്പെടുന്നത് ലീനയുടെ മഷ്റൂമാണ്
+      വിത്തുകൾ, കൂൺ. 👍…
+    author: മഹേഷ്കുമാർ ജഗൻ
+  - quote: Quality Mushroom Seeds 👌👌😊😊 Thank you team Leena's Mushroom..🤝🤝 …
+    author: അസ്ഹർ അലി
+  - quote: Very good experiance. . മഷ്റൂം ഫാർമിങ്ങ് തുടങ്ങാൻ ആഗ്രഹിക്കുന്ന
+      എല്ലാവർക്കും ലീനാ സ് മഷ്റൂമിന്റെ training  വളരെ ഉപകാരപ്രദമായിരിക്കും.
+      എല്ലാസംശയങ്ങൾക്കും മറുപടി കിട്ടുകയും ചെയ്യും. Thank you very much Leena's
+      mushroom
+    author: സെബി സജീദ്
+full_image: /img/farm.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: ഉൽപ്പന്നങ്ങൾ
+  description: ഞങ്ങളുടെ ഉൽപ്പന്ന ശ്രേണി
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: 300 ഗ്രാം ഭാരമുള്ള മഷ്റൂം സ്പോൺ
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Mushroom spawn (weighing 300 grams)
+      plan: Spawn
+      price: 45 + കൊറിയർ ചാർജുകൾ
+    - description: തുറന്നു വെള്ളം തളിച്ചാൽ മതി വിളവെടുപ്പിനു തയ്യാർ ആകും
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - ഗ്രോ റൂം®
+        - നിർദ്ദേശങ്ങൾ
+        - സ്പ്രേയർ
+      plan: ഗ്രോ റൂം®
+      price: 250 + കൊറിയർ ചാർജുകൾ
+    - description: ചെറുകിട കർഷകർക്ക് അനുയോജ്യം, 15 ദിവസം സ്പോൺ റണ്ണിംഗ് ഉള്ള മഷ്റൂം ബെഡ് .
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - റെഡി ടൂ ഗ്രോ മഷ്റൂം ബെഡ് വലുപ്പം ..cmx...cm
+        - ഭാരം ...
+      plan: റെഡി ടൂ ഗ്രോ മഷ്റൂം ബെഡ് 
+      price: "120"
+    - plan: "പെല്ലറ്റ് കൃഷി സ്റ്റാർട്ടർ കിറ്റ് "
+      price: "300"
+      description: " ഈ എല്ലാം ഉൾക്കൊള്ളുന്ന കിറ്റ് നിങ്ങളുടെ കൂൺ വളരുന്ന അനുഭവം കാര്യക്ഷമമാക്കാനും മെച്ചപ്പെടുത്താനും രൂപകൽപ്പന ചെയ്‌തിരിക്കുന്നു."
+      items:
+       - പാക്കറ്റ് സ്പോൺ വലുപ്പം 
+       - ഉരുളകൾ 
+       - പിപി കവർ 
+       - മൈക്രോപോറസ് ടേപ്പ് 
+       - വിശദമായ നിർദ്ദേശങ്ങൾ
+    - plan: "മഷ്റൂം ഫാം കൺസൾട്ടൻസി"
+      description: ഞങ്ങളുടെ കൂൺ ഫാം കൺസൾട്ടൻസി
+      price: വിവരങ്ങൾക്കായി ഫോണിൽ ബന്ധപ്പെടുക
+      items:
+        - കുറഞ്ഞത് 500 ചതുരശ്ര അടി വിസ്തീർണ്ണമുള്ള ഫാമുകൾ നിർമ്മിക്കുന്നതിൽ ഞങ്ങൾ വൈദഗ്ദ്ധ്യം നേടിയിട്ടുണ്ട്
+        - 2000 കിടക്കകളുടെ ശേഷി
 ---

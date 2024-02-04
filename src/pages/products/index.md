@@ -32,9 +32,7 @@ main:
   image2:
     alt: Mushroom Grow room with half grown mushrooms
     image: /img/grow-room2.png
-  image3:
-    alt: Coffee beans
-    image: https://maps.app.goo.gl/eMn1QH3biRticWrC6
+
 testimonials:
   - quote: Well known supplier of high quality Mushroom Spawn. One of the famous and
       leading Mushroom Farms In Kerala with more than 10k satisfied regular
@@ -78,11 +76,14 @@ pricing:
       description: " This all-inclusive kit is designed to streamline and enhance your
         mushroom growing experience."
       items:
-        - "- Packet Spawn size  - Pellets - PP Cover - Micropores Tape -
-          Detailed Instructions"
+        - Packet Spawn size  
+        - Pellets 
+        - PP Cover 
+        - Micropores Tape 
+        - Detailed Instructions
     - plan: "Mushroom Farm consultancy & construction "
       description: Our Mushroom Farm Consultancy & Construction services
-      price: ???
+      price: Please contact on phone for more details
       items:
         - We specialize in constructing farms with a minimum 500 sq.ft area
         - boasting a capacity of 2000 beds
