@@ -18,19 +18,19 @@ intro:
     temperature for approximately 1.5 weeks. For extended storage, placing it in
     the fridge allows preservation for up to 2.5 months."'
 main:
-  heading: Grow Room (Individual mushroom Grow Kit)
+  heading: Grow room® (Individual mushroom Grow Kit)
   description: >
-    Introducing our Mushroom Grow Kit – a convenient and organic solution that
-    includes everything you need for successful cultivation. From spawn to
-    nutrient-rich medium, it's designed for an easy and fruitful mushroom
-    growing experience. 
+    
+    Inoculation (adding seed to the bed ) and spawn running are the difficult phases of mushroom growing , this sets people off from mushroom farming , we do that for you . 
 
-    Inoculation (adding seed to the bed ) and spawn running are the difficult phases of mushroom growing , this sets people off from farming , we do that for you . We inoculate the bed , ensure a healthy spawn run , and send you our mini Grow room® . All you have to do is Keep the Grow room in a cool place away from sunlight and sprinkle some water and harvest and use the freshest mushroom straight from your own Grow room. 
+    Introducing our Mushroom Grow Kit – a convenient and organic solution that includes everything you need for successful cultivation. From spawn to nutrient-rich medium, it's designed for an easy and fruitful mushroom growing experience. 
+
+    We inoculate the bed , ensure a healthy spawn run , and send you our mini Grow room® . All you have to do is Keep the Grow room in a cool place away from sunlight and sprinkle some water and harvest and use the freshest mushroom straight from your own Grow room. 
   image1:
     alt: Mushroom Grow kit -Grow room®
     image: /img/grow-room1.png
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Mushroom Grow room with half grown mushrooms
     image: /img/grow-room2.png
   image3:
     alt: Coffee beans
@@ -50,30 +50,40 @@ testimonials:
     author: Sebi sajeed
 full_image: /img/farm.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Products
+  description: Our Product Range
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Mushroom spawn, weighing 300 grams
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - Mushroom spawn
+        - weighing 300 grams
+      plan: Spawn
+      price: 45 +Courier Charges
+    - description: Mini Grow room® , Open , Spray Water and ready to harvest
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Grow room®
+        - Instruction
+        - Sprayer
+      plan: Grow room®
+      price: 250 + Courier Charges
+    - description: Suitable for small farmers , mushroom beds with 15 days of spawn
+        running .
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
+        - Ready to grow bed size ..cmx...cm
+        - weight ...
+      plan: Ready to Grow mushroom Bed
+      price: "120"
+    - plan: "Pellet Cultivation Starter kit "
+      price: "300"
+      description: " This all-inclusive kit is designed to streamline and enhance your
+        mushroom growing experience."
+      items:
+        - "- Packet Spawn size  - Pellets - PP Cover - Micropores Tape -
+          Detailed Instructions"
+    - plan: "Mushroom Farm consultancy & construction "
+      description: Our Mushroom Farm Consultancy & Construction services
+      price: ???
+      items:
+        - We specialize in constructing farms with a minimum 500 sq.ft area
+        - boasting a capacity of 2000 beds
 ---
