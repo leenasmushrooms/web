@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: എളുപ്പത്തിലുള്ള കൂൺ റെസിപ്പീസ്
+language: en
 date: 2016-12-17T15:04:10.000Z
 description: വളരെ എളുപ്പത്തിൽ ഉണ്ടാക്കാവുന്ന കൂൺ വിഭവങ്ങൾ .
 featuredpost: false
-featuredimage: https://leenasfarm.com/wp-content/uploads/2023/07/naadan_mushroom_curry.jpg
-language: en
+featuredimage: /img/naadan_mushroom_curry.jpg
 tags:
   - നാടൻ കൂൺ കറി
   - കൂൺ വിഭവം
