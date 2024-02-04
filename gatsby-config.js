@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "Leenas Mushroom Farms",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      " Leena`s Mushroom - Fresh Mushroom | Best mushroom farmer award in Kerala state 2022 Mushroom Farm - Best Mushroom farm - Quality mushroom - Farm Fresh Mushroom - Mushroom spawn - Best mushroom spawn - Fan and pad mushroom farm - Best mushroom farm Kerala - mushroom cultivation training in Kerala - mushroom consultancy - mushroom cultivation consultancy - mushroom cultivation in Kerala - Best mushroom cultivation in Kerala - mushroom cultivation - mushroom cultivation training - mushroom farming in Kerala - mushroom farming - Best mushroom farming in Kerala - Best mushroom farmer Kerala 2022 - Best mushroom farmer Kerala - Best mushroom farmer Kerala state award winner - Best mushroom farmer award winnerLeena`s Mushroom | Fresh Mushroom | Best mushroom farmer award in Kerala state 2022",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
