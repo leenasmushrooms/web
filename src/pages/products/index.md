@@ -18,29 +18,37 @@ intro:
     temperature for approximately 1.5 weeks. For extended storage, placing it in
     the fridge allows preservation for up to 2.5 months."'
 main:
-  heading: Great coffee with no compromises
+  heading: Grow Room (Individual mushroom Grow Kit)
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Introducing our Mushroom Grow Kit – a convenient and organic solution that
+    includes everything you need for successful cultivation. From spawn to
+    nutrient-rich medium, it's designed for an easy and fruitful mushroom
+    growing experience. 
+
+    Inoculation (adding seed to the bed ) and spawn running are the difficult phases of mushroom growing , this sets people off from farming , we do that for you . We inoculate the bed , ensure a healthy spawn run , and send you our mini Grow room® . All you have to do is Keep the Grow room in a cool place away from sunlight and sprinkle some water and harvest and use the freshest mushroom straight from your own Grow room. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Mushroom Grow kit -Grow room®
+    image: /img/grow-room1.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/grow-room2.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: https://maps.app.goo.gl/eMn1QH3biRticWrC6
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - quote: Well known supplier of high quality Mushroom Spawn. One of the famous and
+      leading Mushroom Farms In Kerala with more than 10k satisfied regular
+      customers👍. I alway prefer Leena's Mushroom for both buying Mushroom
+      Seeds and Mushroom. 👍 …
+    author: Maheshkumar Jagan
+  - quote: Quality Mushroom Seeds 👌👌😊😊 Thank you team Leena's Mushroom..🤝🤝 …
+    author: AZHAR ALI
+  - quote: Very good experiance. . മഷ്റൂം ഫാർമിങ്ങ് തുടങ്ങാൻ ആഗ്രഹിക്കുന്ന
+      എല്ലാവർക്കും ലീനാ സ് മഷ്റൂമിന്റെ training  വളരെ ഉപകാരപ്രദമായിരിക്കും.
+      എല്ലാസംശയങ്ങൾക്കും മറുപടി കിട്ടുകയും ചെയ്യും. Thank you very much Leena's
+      mushroom
+    author: Sebi sajeed
+full_image: /img/farm.jpg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
