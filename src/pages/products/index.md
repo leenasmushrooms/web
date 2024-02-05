@@ -78,11 +78,7 @@ pricing:
       description: " This all-inclusive kit is designed to streamline and enhance your
         mushroom growing experience."
       items:
-        - Packet Spawn size
-        - Pellets
-        - PP Cover
-        - Micropores Tape
-        - Detailed Instructions
+        - One packet spawn 2 kg pellets  2 pp cover  1 micropore tape
     - plan: "Mushroom Farm consultancy & construction "
       description: Our Mushroom Farm Consultancy & Construction services
       price: Please contact on phone for more details
