@@ -42,11 +42,7 @@ intro:
         through which we can direct you away from unnecessary losses and
         setbacks and put you on the right path towards successful farming. 
   heading: Clients Said
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: "\n"
 testimonials:
   - author: Retheesh Sivan
     quote: You can easily get Fresh Mushrooms and You can also get a mushroom bed
@@ -67,12 +63,10 @@ title: Ready to grow
 language: en
 type: 1
 image: /img/leenas-mushroom-183.jpg
-description: Our story success is scattered with challenges that we had to face
-  throughout the journey; each challenge was a new opportunity which made us
-  better and stronger. Unlike other mushroom consultants, we are the only
-  high-tech mushroom farm consultants who have seen the complete life cycle of
-  mushroom business. We have set up our own high-tech farm, we have our own
-  spawn lab, and we cultivate and market our mushrooms and that gives us the
-  expertise we claim. Below you can find some common challenges a mushroom
-  cultivator may have to face.
+description: Unlike other mushroom consultants, we are the only high-tech
+  mushroom farm consultants who have seen the complete life cycle of mushroom
+  business. We have set up our own high-tech farm, we have our own spawn lab,
+  and we cultivate and market our mushrooms and that gives us the expertise we
+  claim. Below you can find some common challenges a mushroom cultivator may
+  have to face.
 ---
