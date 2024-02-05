@@ -5,6 +5,12 @@ import LanguageSelector from "./LanguageSelector";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
+  const isBrowser = () => typeof window !== "undefined";
+  const lng = isBrowser()
+  ? window.location.pathname.startsWith("/ml")
+    ? "/ml"
+    : ""
+  : "";
 
   return (
     <nav
@@ -14,7 +20,7 @@ const Navbar = () => {
     >
       <div className="container">
         <div className="navbar-brand">
-          <Link to="/" className="navbar-item" title="Logo">
+          <Link to={`${lng ?'/ml/' :'/'}`} className="navbar-item" title="Logo">
             <img src={logo} alt="Leenas" style={{ width: "100px", height: "100px" }} />
           </Link>
           {/* Hamburger menu */}
@@ -35,12 +41,12 @@ const Navbar = () => {
           }`}
         >
           <li className="navbar-item" style={{ padding: "0px" }}>
-            <Link className="navbar-item" to="/products">
+            <Link className="navbar-item" to={`${lng}/products`}>
               Products
             </Link>
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
-            <Link className="navbar-item" to="/blog">
+            <Link className="navbar-item" to={`${lng}/blog`}>
               Blog
             </Link>
           </li>

@@ -1,4 +1,4 @@
-import { graphql } from "gatsby";
+import { Link, graphql } from "gatsby";
 import PropTypes from "prop-types";
 import React from "react";
 
@@ -7,6 +7,7 @@ import Layout from "../components/Layout";
 import SlideShow from "../components/SlideShow";
 import Testimonials from "../components/Testimonials";
 import enrollImg from "../img/enroll_now_jithu-scaled.jpg"
+import ExploreProductsButton from "../components/ExploreProductsButton";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -47,7 +48,9 @@ export const IndexPageTemplate = ({
                       <p>{description}</p>
                     </div>
                   </div>
+                 <ExploreProductsButton/>
                   <Features gridItems={intro.blurbs} />
+                  <ExploreProductsButton/>
                   <Testimonials  testimonials={testimonials}/>
                 </div>
               </div>

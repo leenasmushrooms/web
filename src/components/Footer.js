@@ -2,6 +2,7 @@ import * as React from "react";
 import { Link } from "gatsby";
 
 import logo from "../img/logo.png";
+import whatsapp from "../img/social/whatsapp.svg";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
 // import twitter from "../img/social/twitter.svg";
@@ -11,8 +12,11 @@ const Footer = () => {
   return (
     <footer className="footer has-background-black has-text-white-ter">
       <div className="content has-text-centered">
-        <img src={logo} alt="Kaldi" style={{ width: "14em", height: "10em" }} />
+        <img src={logo} alt="Kaldi" style={{ width: "14em" }} />
       </div>
+      <a className="float" target="_blank" href="https://api.whatsapp.com/send?phone=918921699552&text=Hi%20Leena%60s%20Mushroom.%20I%20would%20like%20to%20contact%20you%20">
+        <img className="whatsapp" src={whatsapp} alt="Whatsapp"/>
+      </a>
       <iframe
         title="map"
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62893.76498610667!2d76.46711629861375!3d9.862084744057974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b07d9853ee36a29%3A0x21d45727fa3f7c07!2sLEENA'S%20MUSHROOM%20FARMS%20LLP!5e0!3m2!1sen!2sin!4v1650991266805!5m2!1sen!2sin"
@@ -55,6 +59,8 @@ const Footer = () => {
             <div className="column is-4 social">
               <a
                 title="facebook"
+                target="_blank"
+                rel="noopener noreferrer"
                 href="https://www.facebook.com/LeenasMushroom"
               >
                 <img
@@ -65,6 +71,8 @@ const Footer = () => {
               </a>
               <a
                 title="instagram"
+                target="_blank"
+                rel="noopener noreferrer"
                 href="https://www.instagram.com/leenasmushroom"
               >
                 <img
