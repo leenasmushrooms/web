@@ -28,7 +28,7 @@ intro:
         are constantly trying out various strains of mushrooms from different
         parts of the country in our endeavour to identify and use the best
         spawn. We also provide these to anyone who needs quality 
-    - image: /img/leenas-mushroom-175.jpg
+    - image: /img/leenas-mushroom-14.jpg
       title: Proper know-how
       text: >
         To succeed in any business, especially in mushroom cultivation, you need
