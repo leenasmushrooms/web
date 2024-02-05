@@ -2,7 +2,7 @@
 heading: The right spawn
 path: /products
 templateKey: product-page
-title: Mushroom Spawn
+title: What we offer
 image: /img/spawn.jpeg
 description: The quality of mushroom is highly dependent on the quality of the
   spawn / the seed. Non-availability of quality spawn is the most common and
@@ -32,7 +32,9 @@ main:
   image2:
     alt: Mushroom Grow room with half grown mushrooms
     image: /img/grow-room2.png
-
+  image3:
+    image: /img/leenas-mushroom-198.jpg
+    alt: Team@Leenas mushroom
 testimonials:
   - quote: Well known supplier of high quality Mushroom Spawn. One of the famous and
       leading Mushroom Farms In Kerala with more than 10k satisfied regular
@@ -65,26 +67,29 @@ pricing:
       plan: Grow room®
       price: 250 + Courier Charges
     - description: Suitable for small farmers , mushroom beds with 15 days of spawn
-        running .
+        running. Minimum 5 beds order needed.
       items:
-        - Ready to grow bed size ..cmx...cm
-        - weight ...
+        - 5 numbers Ready to grow bed size 17cm diameter x 22 cm length
+        - weight 1.2kg
       plan: Ready to Grow mushroom Bed
-      price: "120"
+      price: 800 (5 bags, including courier charges )
     - plan: "Pellet Cultivation Starter kit "
-      price: "300"
+      price: "350 including delivery charge (in Kerala) "
       description: " This all-inclusive kit is designed to streamline and enhance your
         mushroom growing experience."
       items:
-        - Packet Spawn size  
-        - Pellets 
-        - PP Cover 
-        - Micropores Tape 
+        - Packet Spawn size
+        - Pellets
+        - PP Cover
+        - Micropores Tape
         - Detailed Instructions
     - plan: "Mushroom Farm consultancy & construction "
       description: Our Mushroom Farm Consultancy & Construction services
       price: Please contact on phone for more details
       items:
-        - We specialize in constructing farms with a minimum 500 sq.ft area
-        - boasting a capacity of 2000 beds
+        - We specialize in constructing farms and giving initial support by
+          supply of ready to grows beds
+        - spawn and other raw materials needed. The minimum area requirement is
+          500 sq ft
+        - which will have a capacity of 2000 beds.
 ---
