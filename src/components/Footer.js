@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="content has-text-centered">
         <img src={logo} alt="Kaldi" style={{ width: "14em" }} />
       </div>
-      <a className="float" target="_blank" href="https://api.whatsapp.com/send?phone=918921699552&text=Hi%20Leena%60s%20Mushroom.%20I%20would%20like%20to%20contact%20you%20">
+      <a className="float" target="_blank" href="https://api.whatsapp.com/send?phone=919778172229&text=Hi%20Leena%60s%20Mushroom.%20I%20would%20like%20to%20contact%20you%20">
         <img className="whatsapp" src={whatsapp} alt="Whatsapp"/>
       </a>
       <iframe

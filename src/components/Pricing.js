@@ -20,7 +20,7 @@ const Pricing = ({ data }) => (
               </li>
             ))}
           </ul>
-        <a className="button is-primary" target="_blank" href={`https://api.whatsapp.com/send?phone=918921699552&text=Hi%20Leena%60s%20Mushroom.%20I%20would%20like%20to%20buy%20${price.plan}%20`}>
+        <a className="button is-primary" target="_blank" href={`https://api.whatsapp.com/send?phone=919778172229&text=Hi%20Leena%60s%20Mushroom.%20I%20would%20like%20to%20buy%20${price.plan}%20`}>
           Buy Now
         </a>
         </section>
