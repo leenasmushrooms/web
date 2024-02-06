@@ -14,32 +14,16 @@ const Navbar = () => {
 
   return (
     <nav
-      className="navbar is-transparent"
       role="navigation"
       aria-label="main-navigation"
     >
-      <div className="container">
+      <div className="container" style={{display:'flex', alignItems: 'center'}}>
         <div className="navbar-brand">
           <Link to={`${lng ?'/ml/' :'/'}`} className="navbar-item" title="Logo">
             <img src={logo} alt="Leenas" style={{ width: "100px", height: "100px" }} />
           </Link>
-          {/* Hamburger menu */}
-          <button
-            className={`navbar-burger burger ${isActive && "is-active"}`}
-            aria-expanded={isActive}
-            onClick={() => setIsActive(!isActive)}
-          >
-            <span />
-            <span />
-            <span />
-          </button>
         </div>
-        <ul
-          id="navMenu"
-          className={` navbar-start has-text-centered navbar-menu ${
-            isActive && "is-active"
-          }`}
-        >
+        <ul id="navMenu" style={{display: 'flex', marginLeft: 'auto', alignItems: 'center'}}>
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to={`${lng}/products`}>
               Products

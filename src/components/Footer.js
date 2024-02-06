@@ -66,7 +66,6 @@ const Footer = () => {
                 <img
                   src={facebook}
                   alt="Facebook"
-                  style={{ width: "1em", height: "1em" }}
                 />
               </a>
               <a
@@ -78,7 +77,6 @@ const Footer = () => {
                 <img
                   src={instagram}
                   alt="Instagram"
-                  style={{ width: "1em", height: "1em" }}
                 />
               </a>
             </div>

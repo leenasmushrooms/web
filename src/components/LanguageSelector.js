@@ -4,7 +4,7 @@ const LanguageSelector = () => {
   const isBrowser = () => typeof window !== "undefined"
   const getClass = (lang) => {
     const lng = isBrowser() ? window.location.pathname.startsWith('/ml')? 'ml': 'en': 'en';
-    return lng === lang ? "button is-primary" : "button is-white";
+    return lng === lang ? "button is-hidden": "button is-light is-small" ;
   };
   const barePath = isBrowser() ? window.location.pathname.replace('/ml/', '/'): '/'
   return (

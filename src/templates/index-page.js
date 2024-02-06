@@ -8,6 +8,9 @@ import SlideShow from "../components/SlideShow";
 import Testimonials from "../components/Testimonials";
 import enrollImg from "../img/enroll_now_jithu-scaled.jpg"
 import ExploreProductsButton from "../components/ExploreProductsButton";
+import EnrollNowButton from "../components/EnrollNowButton";
+import FaqButton from "../components/FaqButton";
+import VideoLinkButton from "../components/VideoLinkButton";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -40,9 +43,10 @@ export const IndexPageTemplate = ({
                   <a href="https://www.manoramahorizon.com/course/mushroom-farming-for-beginners/" target="_blank">
                     <img src={enrollImg} alt="Leenas" style={{ width: "100%" }} />
                   </a>
+                  <EnrollNowButton/>
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      <h3 className="has-text-weight-semibold is-size-3">
                         {heading}
                       </h3>
                       <p>{description}</p>
@@ -52,6 +56,13 @@ export const IndexPageTemplate = ({
                   <Features gridItems={intro.blurbs} />
                   <ExploreProductsButton/>
                   <Testimonials  testimonials={testimonials}/>
+                  <div className="block mt-2">
+                    <FaqButton/>
+                  </div>
+                  <div className="block mt-2">
+                    <VideoLinkButton/>
+                  </div>
+                  
                 </div>
               </div>
             </div>

@@ -401,3 +401,27 @@ collections:
                   },
                 ],
             }
+      - file: "src/pages/faq/index.md"
+        label: "FAQ"
+        name: "faq"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "faq-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/ml/faq/index.md"
+        label: "FAQ (Malayalam)"
+        name: "faqMl"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "faq-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
