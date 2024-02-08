@@ -7,25 +7,18 @@ title: Frequently Asked Questions
 
 1. Who is Leena's Mushroom?
 
-A: Leena's Mushroom Farm started as a small establishment focusing on producing quality mushrooms in 2012. Today we farm with a production capacity of 200 kilograms per day, and we market our mushrooms out to more than 100 retail shops around Ernakulam district. Our state -of-the-art spawn testing facility has the capacity to produce two tonnes of high quality spawns a month and we are on the constant lookout for new ways of nurturing and cultivating both edible and medicinal mushrooms. We provide training classes for aspiring mushroom farmers. We provide consultancy services for setting up farms. 
+A: Leena's Mushroom Farm started as a small establishment focusing on producing quality mushrooms in 2012. Today we farm with a production capacity of 200 kilograms per day, and we market our mushrooms out to more than 100 retail shops around Ernakulam district. Our state -of-the-art spawn testing facility has the capacity to produce two Tonnes of high quality spawns a month and we are on the constant lookout for new ways of nurturing and cultivating both edible and medicinal mushrooms. We provide training classes for aspiring mushroom farmers. We provide consultancy services for setting up farms. 
 
 
 
-2. 	Q: What services do you provide?
+2. What services do you provide?
 
  A: Leenas Mushroom Farms provides the following services:
-
 Fresh mushroom supply.
-
 Mushroom spawn.
-
 Farm installation/consultancy services.
-
 Ready to grow mushroom beds
-
- DIY mushroom grow pellet kit
-
-
+DIY mushroom grow pellet kit.
 
 3.	Q. Where are you located 
 
