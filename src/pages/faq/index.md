@@ -24,7 +24,7 @@ DIY mushroom grow pellet kit.
 
 	 A. We are located India at Mamalakavala on Piravom -Maneed Road of Ernakulam district the location is <https://maps.app.goo.gl/QvhUdszr1ViMteHa7>
 
-4. 	Q. Can I visit your farm 
+4. Can I visit your farm? 
 
 	A.: 
 
@@ -38,7 +38,7 @@ DIY mushroom grow pellet kit.
 
 
 
-1	 Q: Do you sell Spawn ?
+1	 Q: Do you sell Spawn?
 
  A: Yes we do , we have regular stock of oyster HU  mushroom Spawn -F 1 
 
@@ -60,7 +60,7 @@ A: There is  regular production of Oyster mushroom spawn. We have a wide variety
 
 
 
-21.Q:  Do you have Cash On Delivery? 
+21. Do you have Cash On Delivery? 
 
 	A: Currently, we do not offer cash on delivery. You can make payments via Google Pay to the number 9947427268 or through bank transfer to Leena's Mushroom Farms LLP. Here are the account details:
 
@@ -118,7 +118,7 @@ A: Most of the time , India Post is the courier partner and home delivery is ass
 
 
 
-19. 	A: I bought mushroom seeds , how to use them .
+19. I bought mushroom seeds , how to use them .
 
 	A: The seeds come in a 300-gram packet. You can use them to create two beds by mixing with either rubber sawdust or paddy straw. The methods for using the same are given in the video . 
 
@@ -128,7 +128,7 @@ The mushroom spawn can be stored outside for up to one week. For longer storage 
 
 
 
-11. 	Q. Can I buy fresh mushrooms online ?
+11.Can I buy fresh mushrooms online ?
 
 \    	 A: Unfortunately, we do not sell mushrooms online due to the risk of drying or damage during transportation. However you can buy our fresh Mushrooms from any of the Retail outlets in Piravom , Muvattupuzha, Thripunithura , Mulanthuruthy, Peruva, Ettumanur, & Kothamangalam.
 
@@ -398,9 +398,8 @@ A: After booking , your mushroom spawn will be shipped within 3 to 7 working day
 
 	A: Yes, we deliver mushroom spawn all over India. 
 
-28 .	Q:  What is the weight of one mushroom spawn packet 
-
-	A: Each mushroom spawn packet weighs 300 grams.
+28.   What is the weight of one mushroom spawn packet 
+       A: Each mushroom spawn packet weighs 300 grams.
 
 29.	Q:  How much mushroom bed can be made with one packet spawn ?
 
