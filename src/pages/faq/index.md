@@ -22,7 +22,7 @@ DIY mushroom grow pellet kit.
 
 3.	Q. Where are you located 
 
-	 A. We are located India at Mamalakavala on Piravom -Maneed Road of Ernakulam district the location is <https://maps.app.goo.gl/QvhUdszr1ViMteHa7>
+	 A. We are located India at Mamalakavala on Piravom -Maneed Road of Ernakulam district the location [link is] (<https://maps.app.goo.gl/QvhUdszr1ViMteHa7>)
 
 4. Can I visit your farm? 
 
@@ -217,9 +217,6 @@ Do you deliver bulk pellets all over India ?
 
 
 
-
-
-
 DIY grow kit-Growroom 
 
 
@@ -240,11 +237,11 @@ How to use Grow Room
 
 ·         Make slits in the plastic bag as depicted in the cover.
 
-·         Temperatures of 24 - 27°C are best for oyster mushrooms. Temperatures above and below may reduce yield, change shape, colour, and increase time of appearance of mushrooms.
+·         Temperatures of 24 - 27°C are best for oyster mushrooms. Temperatures above and below may reduce yield, change shape, color, and increase time of appearance of mushrooms.
 
 ·         Mushrooms will sprout out of the holes in 10-15 days. Water by spray misting on the surface once a day. In this case you would be watering the plastic bag with the slits in it. When the small oyster mushrooms start sprouting, increase watering to 2-3 times a day depending on the outside humidity. Do not overwater the mushrooms as their keeping quality drastically reduces by extra water on mushrooms. Secret of good quality mushrooms is humidity (80-85%) rather than irrigation. Air circulation is necessary for normal mushroom growth. The lack of fresh air will prevent mushrooms from growing and produce long stringy mushrooms.
 
-·         Harvesting - harvest by twisting slowly one complete turn to free them from the growing medium. Be careful not to damage the growing mediums' surface. Do not cut the mushrooms off, because this leaves a stump to rot, which can later inhibit the fruiting of the next crop. Harvest mushrooms when young and the colour starts becoming lighter. Overmature mushrooms cannot be stored.
+Harvesting - harvest by twisting slowly one complete turn to free them from the growing medium. Be careful not to damage the growing mediums' surface. Do not cut the mushrooms off, because this leaves a stump to rot, which can later inhibit the fruiting of the next crop. Harvest mushrooms when young and the colour starts becoming lighter. Overmature mushrooms cannot be stored.
 
 ·         Harvest the mushroom on the 3rd day after pinning. Four harvests will get from a mushroom bag at an interval of 10-20 days. This mushroom bag has a life of 4 months.
 
@@ -261,9 +258,7 @@ I bought a grow room. It was received with something which looked like a fungus 
 Yes, it's normal. The material you see is likely mycelium, which is the vegetative part of the fungus. It's a positive sign that your Grow Room is actively cultivating mushrooms. 
 
 
-
 Ready to grow mushroom bed 
-
 
 
 What is ready to grow mushroom bed 
@@ -277,11 +272,6 @@ What is the weight of beds
 What is the courier charge 
 
 How to use ready to grow mushroom bed 
-
-
-
-
-
 
 
 Training 	
@@ -332,15 +322,8 @@ Mushroom Grow Room construction / Consultancy
 
 	A: Yes we provide farm installation services. Our mushroom farm installation services require a minimum area of 500 sq. ft. 
 
-For a visual reference, here is the Youtube link to our model farm : 
-
- https://youtu.be/lxlffi78pxw?si=YRCYG6QIUwBXNoEB
-
-
-
-
-
- To know more 9947427268.contact. 
+For a visual reference, here is the Youtube [link to]( https://youtu.be/lxlffi78pxw?si=YRCYG6QIUwBXNoEB)our model farm:  
+To know more 9947427268.contact. 
 
 
 
