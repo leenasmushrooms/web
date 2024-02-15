@@ -43,15 +43,9 @@ DIY mushroom grow pellet kit.
  A: Yes we do , we have regular stock of oyster HU  mushroom Spawn -F 1 
 
 
-
-
-
 2	Q: Do you have other varieties other than oyster spawn? 
 
 A: There is  regular production of Oyster mushroom spawn. We have a wide variety of edible and medicinal mushroom spawns in our culture bank  like Ganodrema lucidum, Shiitake, Cordyceps, Lion's mane, Pink/King/Yellow Oyster etc. and more, These spawn varieties can be made on pre order in bulk quantities. 
-
-
-
 
 
 12.	 Q: How can buy mushroom spawn online
@@ -343,13 +337,13 @@ Uses of Mushrooms
 
 	A: oyster, milky
 
-23. 	Q: Why should we eat mushrooms?
+23. Q: Why should we eat mushrooms?
 
 	A:   
 
-Nutrient rich : Mushrooms are a good source of vitamins, minerals, and antioxidants.
+Nutrient rich: Mushrooms are a good source of vitamins, minerals, and antioxidants.
 
-Low in calories :  They are low in calories, making them a healthy option for weight management
+Low in calories:  They are low in calories, making them a healthy option for weight management.
 
 Boosts immunity: Certain compounds in Mushrooms may enhance the immune system.
 
