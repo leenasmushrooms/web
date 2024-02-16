@@ -20,7 +20,7 @@ Leenas Mushroom Farms provides the following services:
 
 ###### Where are you located 
 
-We are located India at Mamalakavala on Piravom -Maneed Road of Ernakulam district. [Click here] (https://maps.app.goo.gl/QvhUdszr1ViMteHa7) for location.
+We are located India at Mamalakavala on Piravom -Maneed Road of Ernakulam district. [Click here](https://maps.app.goo.gl/QvhUdszr1ViMteHa7) for location.
 ###### Can I visit your farm? 
 
 A: 
@@ -244,7 +244,7 @@ Yes, we offer online training for mushroom cultivation.
 
 ###### I want to start mushroom farming , how to start ?
 
-There are plenty of training Free training resources available on youtube like this channel A V Mathew - YouTube , Agricultural universities provide training  from time to time. The link to free training videos are given below. https://www.youtube.com/@LeenasMushroom . We provide training in collaboration with Manorama Horizon, the link for signing up for training Mushroom Farming Course For Beginners | Manorama Horizon.  
+There are plenty of training Free training resources available on youtube like this channel A V Mathew - YouTube , Agricultural universities provide training  from time to time. The link to free training videos are [here] (https://www.youtube.com/@LeenasMushroom). We provide training in collaboration with Manorama Horizon, the link for signing up for training Mushroom Farming Course For Beginners | Manorama Horizon.  
 
 
 ###### Do you give training 
