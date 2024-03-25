@@ -1,5 +1,6 @@
 import * as React from "react";
 import PropTypes from "prop-types";
+import {BuyNowButton} from '@ecwid/gatsby-plugin-ecwid';
 
 const Pricing = ({ data }) => (
   <div className="columns" style={{flexWrap: 'wrap'}}>
@@ -20,9 +21,7 @@ const Pricing = ({ data }) => (
               </li>
             ))}
           </ul>
-        <a className="button is-primary" target="_blank" href={`https://api.whatsapp.com/send?phone=919778172229&text=Hi%20Leena%60s%20Mushroom.%20I%20would%20like%20to%20buy%20${price.plan}%20`}>
-          Buy Now
-        </a>
+        <BuyNowButton storeId="100250031" productId="636592355" isShowPrice={true} />
         </section>
       </div>
     ))}

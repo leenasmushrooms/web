@@ -11,6 +11,7 @@ import ExploreProductsButton from "../components/ExploreProductsButton";
 import EnrollNowButton from "../components/EnrollNowButton";
 import FaqButton from "../components/FaqButton";
 import VideoLinkButton from "../components/VideoLinkButton";
+import {ProductBrowser} from '@ecwid/gatsby-plugin-ecwid'
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -44,6 +45,8 @@ export const IndexPageTemplate = ({
                     <img src={enrollImg} alt="Leenas" style={{ width: "100%" }} />
                   </a>
                   <EnrollNowButton/>
+                  <h1 className="title">Our Products</h1>
+                  <ProductBrowser storeId="100250031" />
                   <div className="columns">
                     <div className="column is-12">
                       <h3 className="has-text-weight-semibold is-size-3">
