@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import MushroomMimage from "../img/leenas-mushroom-img.jpg";
+import EnrollFormButton from "../components/CourseEnroll/EnrollFormButton";
 
 const CoursesPage = () => {
   return (
@@ -24,15 +25,6 @@ const CoursesPage = () => {
 
       <section className="section column is-10 is-offset-1 page-margin-b">
         <div className="content">
-          {/* <div className="course-head">
-            <h2 className="title">Beginner's Mushroom Cultivation Course</h2>
-            <p className="subtitle">
-              Step into the fascinating world of mushroom cultivation with our
-              specially designed course for enthusiasts, hobbyists, and those
-              dreaming of launching a small-scale mushroom farming business.
-            </p>
-          </div> */}
-
           <div className="course-head p-4">
             <h2 className="title color-white mb-2">
               Beginner's Mushroom Cultivation Course
@@ -43,6 +35,37 @@ const CoursesPage = () => {
               dreaming of launching a small-scale mushroom farming business.
             </p>
           </div>
+
+          {/* Fees and Details */}
+          <div className="my-4">
+            <h2>Course Details</h2>
+            <p>
+              This course blends <strong>essential theory</strong> with{" "}
+              <strong>hands-on practical</strong> knowledge, giving you the
+              confidence and skills to thrive in the mushroom industry.
+            </p>
+            <p>
+              <strong>📅 Dates:</strong> December 15th & 16th
+              <br />
+              <strong>🕖 Time:</strong> 7:00 PM – 8:00 PM
+              <br />
+              <strong>🌐 Language:</strong> English
+              <br />
+              <strong>💵 Fees:</strong> ₹2500/-
+              <br />
+            </p>
+          </div>
+
+          <div className="my-4 mb-5">
+            <p>
+              Join us and turn your passion for mushrooms into a rewarding
+              adventure. Let’s grow together! 🌱
+            </p>
+
+            <EnrollFormButton />
+          </div>
+
+          <hr />
 
           {/* What You'll Learn */}
           <div className="my-4">
@@ -67,23 +90,28 @@ const CoursesPage = () => {
             </ul>
           </div>
 
-          <h3>What You'll Gain:</h3>
-          <div>
-            <div>✅ Essential knowledge about mushroom farming</div>
-            <div>✅ Practical tips for growing at home</div>
+          <div className="my-4">
+            <h3>What You'll Gain:</h3>
             <div>
-              ✅ Insights into marketing and scaling your mushroom business
+              <div>✅ Essential knowledge about mushroom farming</div>
+              <div>✅ Practical tips for growing at home</div>
+              <div>
+                ✅ Insights into marketing and scaling your mushroom business
+              </div>
             </div>
           </div>
 
-          <h3>What You’ll Get:</h3>
-          <div>
+          <div className="my-4">
+            <h3>What You’ll Get:</h3>
             <div>
-              ✅ A Mushroom Beginner Kit to kickstart your cultivation journey.
-            </div>
-            <div>
-              ✅ An Official Certificate of Completion to recognize your
-              newfound expertise.
+              <div>
+                ✅ A Mushroom Beginner Kit to kickstart your cultivation
+                journey.
+              </div>
+              <div>
+                ✅ An Official Certificate of Completion to recognize your
+                newfound expertise.
+              </div>
             </div>
           </div>
 
@@ -109,33 +137,6 @@ const CoursesPage = () => {
               <li>Marketing Strategies for Mushrooms</li>
             </ul>
           </div>
-
-          {/* Fees and Details */}
-          <div className="my-4">
-            <h2>Course Details</h2>
-            <p>
-              This course blends <strong>essential theory</strong> with{" "}
-              <strong>hands-on practical</strong> knowledge, giving you the
-              confidence and skills to thrive in the mushroom industry.
-            </p>
-            <p>
-              <strong>📅 Dates:</strong> December 15th & 16th
-              <br />
-              <strong>🕖 Time:</strong> 7:00 PM – 8:00 PM
-              <br />
-              <strong>🌐 Language:</strong> English
-              <br />
-              <strong>💵 Fees:</strong> ₹2500/-
-              <br />
-            </p>
-          </div>
-
-          <p>
-            Join us and turn your passion for mushrooms into a rewarding
-            adventure. Let’s grow together! 🌱
-          </p>
-
-          <button className="button is-primary">Enroll Now</button>
         </div>
       </section>
 

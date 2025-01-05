@@ -309,3 +309,223 @@ footer.footer
 
 .mb-5
   margin-bottom: 1.25rem !important
+
+// Define Tailwind-style horizontal padding utilities
+.px-0
+  padding-left: 0 !important
+  padding-right: 0 !important
+
+.px-1
+  padding-left: 0.25rem !important
+  padding-right: 0.25rem !important
+
+.px-2
+  padding-left: 0.5rem !important
+  padding-right: 0.5rem !important
+
+.px-3
+  padding-left: 0.75rem !important
+  padding-right: 0.75rem !important
+
+.px-4
+  padding-left: 1rem !important
+  padding-right: 1rem !important
+
+.px-5
+  padding-left: 1.25rem !important
+  padding-right: 1.25rem !important
+
+// Define Tailwind-style vertical padding utilities
+.py-0
+  padding-top: 0 !important
+  padding-bottom: 0 !important
+
+.py-1
+  padding-top: 0.25rem !important
+  padding-bottom: 0.25rem !important
+
+.py-2
+  padding-top: 0.5rem !important
+  padding-bottom: 0.5rem !important
+
+.py-3
+  padding-top: 0.75rem !important
+  padding-bottom: 0.75rem !important
+
+.py-4
+  padding-top: 1rem !important
+  padding-bottom: 1rem !important
+
+.py-5
+  padding-top: 1.25rem !important
+  padding-bottom: 1.25rem !important
+
+// Define Tailwind-style horizontal margin utilities
+.mx-0
+  margin-left: 0 !important
+  margin-right: 0 !important
+
+.mx-1
+  margin-left: 0.25rem !important
+  margin-right: 0.25rem !important
+
+.mx-2
+  margin-left: 0.5rem !important
+  margin-right: 0.5rem !important
+
+.mx-3
+  margin-left: 0.75rem !important
+  margin-right: 0.75rem !important
+
+.mx-4
+  margin-left: 1rem !important
+  margin-right: 1rem !important
+
+.mx-5
+  margin-left: 1.25rem !important
+  margin-right: 1.25rem !important
+
+// Define Tailwind-style vertical margin utilities
+.my-0
+  margin-top: 0 !important
+  margin-bottom: 0 !important
+
+.my-1
+  margin-top: 0.25rem !important
+  margin-bottom: 0.25rem !important
+
+.my-2
+  margin-top: 0.5rem !important
+  margin-bottom: 0.5rem !important
+
+.my-3
+  margin-top: 0.75rem !important
+  margin-bottom: 0.75rem !important
+
+.my-4
+  margin-top: 1rem !important
+  margin-bottom: 1rem !important
+
+.my-5
+  margin-top: 1.25rem !important
+  margin-bottom: 1.25rem !important
+
+
+
+//-----------------enroll modal styles-------------------------
+
+// ------------ Modal Styles ------------
+.modal-overlay
+  background-color: rgba(0, 0, 0, 0.75)
+  position: fixed
+  top: 0
+  left: 0
+  right: 0
+  bottom: 0
+  display: flex
+  justify-content: center
+  align-items: center
+  z-index: 9999
+
+.modal-content
+  background-color: #fff
+  padding: 1rem
+  border-radius: 10px
+  width: 90%
+  max-width: 400px
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1)
+
+
+
+.close-button
+  position: absolute
+  padding-bottom: .5rem
+  top: .5rem
+  right: .5rem
+  background: none
+  border: none
+  font-size: 2rem
+  font-weight: bold
+  line-height: 1.5rem
+  color: #333
+  background: #efefef
+  border-radius: 8px
+
+  &:hover
+    color: #007bff
+    background:rgb(173, 173, 173)
+    cursor: pointer
+
+.no-scroll
+  overflow: hidden
+
+  
+// ------------ Form Styles ------------
+
+.enroll-form
+  display: flex
+  flex-direction: column
+
+  label
+    font-weight: bold
+    margin-bottom: .5rem
+    color: #333
+
+    // Responsive font size for labels
+    @media (max-width: $breakpoint-md)
+      font-size: .9rem
+
+  input
+    padding: .75rem
+    margin-bottom: 1rem
+    border: 1px solid #ccc
+    border-radius: .5rem
+
+    &:focus
+      outline: none
+      border-color: #007bff // Blue border on focus
+      box-shadow: 0px 0px 3px rgba(0,123,255,0.5)
+
+    // Responsive input size for smaller screens
+    @media (max-width: $breakpoint-md)
+      padding: .6rem
+
+.error
+    color: red !important
+    font-size: .875rem !important // Smaller error text size for better readability
+    margin-top: -0.5rem !important 
+    margin-bottom: .75rem !important
+
+
+.form-input-group
+  display: flex
+  flex-direction: column
+  
+
+// ------------ Button Styles ------------
+
+.submit-button,
+.cancel-button
+  padding: 0.75rem
+  border-radius: 0.5rem
+  font-weight: bold
+  width: auto
+  text-align: center
+
+.submit-button
+  background-color: #007bff // Blue background
+  color: white
+  border: none
+
+  &:hover
+    background-color: #0056b3 // Darker blue on hover
+    cursor: pointer
+
+.cancel-button
+  background-color: #ccc // Gray background
+  color: black
+  border: none
+
+  &:hover
+    background-color: #999 // Darker gray on hover
+    cursor: pointer
