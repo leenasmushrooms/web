@@ -138,6 +138,7 @@ const CoursesPage = () => {
             </ul>
           </div>
         </div>
+        <EnrollFormButton />
       </section>
 
       <Footer />
