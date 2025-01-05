@@ -1,6 +1,7 @@
 [build]
   publish = "public"
-  command = "npm install --legacy-peer-deps && npm run build"  # Add legacy-peer-deps flag during install
-
+  command = "npm install --force && npm run build --force"
 [build.environment]
-  NODE_VERSION = "16"  # Ensure Node.js version is set correctly
+  NODE_VERSION = "16"
+
+
