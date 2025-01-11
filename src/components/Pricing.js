@@ -1,6 +1,6 @@
 import * as React from "react";
 import PropTypes from "prop-types";
-import {BuyNowButton} from '@ecwid/gatsby-plugin-ecwid';
+// import {BuyNowButton} from '@ecwid/gatsby-plugin-ecwid';
 
 const Pricing = ({ data }) => (
   <div className="columns" style={{flexWrap: 'wrap'}}>
@@ -21,7 +21,7 @@ const Pricing = ({ data }) => (
               </li>
             ))}
           </ul>
-        <BuyNowButton storeId="100250031" productId="636592355" isShowPrice={true} />
+        {/* <BuyNowButton storeId="100250031" productId="636592355" isShowPrice={true} /> */}
         </section>
       </div>
     ))}

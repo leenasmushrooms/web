@@ -8,7 +8,7 @@ import Testimonials from "../components/Testimonials";
 import Pricing from "../components/Pricing";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
-import { ProductBrowser } from "@ecwid/gatsby-plugin-ecwid";
+// import { ProductBrowser } from "@ecwid/gatsby-plugin-ecwid";
 
 // eslint-disable-next-line
 export const ProductPageTemplate = ({
@@ -31,7 +31,7 @@ export const ProductPageTemplate = ({
       <section className="section">
         <div className="container">
           <h1 className="title">Products</h1>
-          <ProductBrowser storeId="100250031" />
+          {/* <ProductBrowser storeId="100250031" /> */}
         </div>
       </section>
       {/* <FullWidthImage img={heroImage} title={title} />
